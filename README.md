@@ -16,3 +16,5 @@ change the currency pairs to the ones you want.
 3rd step is to click "run_script.bat" file, set back and let the script do all the hard work! :)
 
 ##############################################################################
+
+I do freelance jobs from time to time, for business inquiries, feel free to email me at : Rhzif@hotmail.com 
